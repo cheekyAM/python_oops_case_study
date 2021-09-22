@@ -10,6 +10,9 @@ will try to keep on adding functionalities (next will build user request for buy
 you can run it by calling Agent class and from there follow on the prompts:
 
 $python
+
 from realstate.py import *
+
 agent=Agent()
-agent.prompt_init()
+
+agent.add_property()
