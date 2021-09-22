@@ -9,12 +9,9 @@ will try to keep on adding functionalities (next will build user request for buy
 
 you can run it by calling Agent class and from there follow on the prompts:
 
+'''
 $python
-
 from realstate.py import *
-
 agent=Agent()
-
 agent.add_property()
-
-[course](https://www.udemy.com/course/master-deep-learning-computer-visiontm-cnn-ssd-yolo-gans/learn/lecture/12583716#overview)
+'''
