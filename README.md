@@ -16,3 +16,5 @@ from realstate.py import *
 agent=Agent()
 
 agent.add_property()
+
+[course](https://www.udemy.com/course/master-deep-learning-computer-visiontm-cnn-ssd-yolo-gans/learn/lecture/12583716#overview)
